@@ -1,7 +1,7 @@
 package com.example.sem3HomeTask.controllers;
 
-import com.example.sem3HomeTask.dao.DtoMapper;
-import com.example.sem3HomeTask.dao.UserDTO;
+import com.example.sem3HomeTask.dto.DtoMapper;
+import com.example.sem3HomeTask.dto.UserDTO;
 import com.example.sem3HomeTask.domain.User;
 import com.example.sem3HomeTask.services.DataProcessingService;
 import io.swagger.v3.oas.annotations.Operation;

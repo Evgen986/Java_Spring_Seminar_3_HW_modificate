@@ -1,4 +1,4 @@
-package com.example.sem3HomeTask.dao;
+package com.example.sem3HomeTask.dto;
 
 import com.example.sem3HomeTask.domain.User;
 
